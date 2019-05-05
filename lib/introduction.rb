@@ -7,5 +7,3 @@ def introduction_with_language(name, language)
 end
 
 puts introduction_with_language(Samir, JavaScript)
-
-
